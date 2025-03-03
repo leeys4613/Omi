@@ -30,8 +30,8 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-/test/
-/unity/
+#/test/
+#/unity/
 /android/unityLibrary/build/
 /android/unityLibrary/symbols/
 /android/unityLibrary/libs/

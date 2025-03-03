@@ -23,6 +23,8 @@ if (flutterVersionName == null) {
     flutterVersionName = "1.0"
 }
 
+def geoApiId = localProperties.getProperty("google.maps.apiKey")
+
 android {
     namespace = "com.omi.unity_test"
     compileSdk = flutter.compileSdkVersion
@@ -46,6 +48,7 @@ android {
         targetSdk = flutter.targetSdkVersion
         versionCode = flutterVersionCode.toInteger()
         versionName = flutterVersionName
+        manifestPlaceholders += [geoApiId: geoApiId]
     }
 
     buildTypes {
