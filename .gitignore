@@ -32,10 +32,10 @@ migrate_working_dir/
 /build/
 /test/
 #/unity/
-#/android/unityLibrary/build/
-#/android/unityLibrary/symbols/
-#/android/unityLibrary/libs/
-#/android/unityLibrary/src/
+/android/unityLibrary/build/
+/android/unityLibrary/symbols/
+/android/unityLibrary/libs/
+/android/unityLibrary/src/
 
 # Symbolication related
 app.*.symbols
@@ -47,3 +47,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/android/local.properties
