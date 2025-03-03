@@ -88,7 +88,6 @@ flutter:
     - assets/icons/cash.png
     - assets/icons/like.png
     - assets/map_style.json
-
   fonts:
     - family: Lato
       fonts:
