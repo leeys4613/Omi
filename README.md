@@ -9,3 +9,6 @@ Below is installation instructions for getting started.
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/leeys4613/Omi.git
+
+2. **Setting your flutter SDK:**
+   Flutter 3.22.1
