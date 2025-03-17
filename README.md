@@ -1,16 +1,11 @@
-# unity_test
+# Omi Application
 
-A new Flutter project.
+Welcome to the first release of our Omi Application! This application allows users to adopt and care for a omi character, providing a fun and engaging experience for users of all ages. 
+Below is installation instructions for getting started.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/leeys4613/Omi.git
